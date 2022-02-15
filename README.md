@@ -9,4 +9,4 @@ Repository for small game "NotLoader".
  If you have any issues, feel free to say so.
  The game was/is only a small project, so I might not fix or update this all that often.
 
-My fried @JaredJJ02 helped me out a lot with the math, so big thanks to him.
+My friend @JaredJJ02 helped me out a lot with the math, so big thanks to him.
